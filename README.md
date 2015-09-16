@@ -1,2 +1,2 @@
 # shuohappy.github.io
-shuohappy.github.io
+[shuohappy](shuohappy.github.io)
